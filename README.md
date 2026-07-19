@@ -189,21 +189,11 @@
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions to generate the snake animation.
+> Enable GitHub Actions and use Platane/snk to generate this animation.
 
-```text
-.github/workflows/snake.yml
-```
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-Then use:
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/jeevanjacob1/jeevanjacob1/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
-
----
+------------------------------------------------------------------------
 
 # ⚡ Fun Fact
 
