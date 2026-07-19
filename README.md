@@ -38,12 +38,7 @@
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-<p align="center">
-<a href="https://github.com/jeevanjacob1"><img src="https://img.shields.io/github/followers/jeevanjacob1?label=Followers&style=for-the-badge"></a>
-<a href="https://github.com/jeevanjacob1"><img src="https://img.shields.io/github/stars/jeevanjacob1?style=for-the-badge"></a>
-<img src="https://komarev.com/ghpvc/?username=jeevanjacob1&style=for-the-badge&color=blue"/>
-</p>
+
 
 ---
 
