@@ -41,8 +41,6 @@
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
 *"Code. Learn. Build. Repeat."* 🚀
-:::
