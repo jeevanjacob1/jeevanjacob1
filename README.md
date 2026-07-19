@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JEEVAN A JACOB</h1>
 <h3 align="center">A passionate frontend developer,AI/ML Enthusiast, CSE Core Student.</h3>
 
-- 🔭 I’m currently working on [AfterCare AI](https://github.com/jeevanjacob1/AfterCare-MCP-project)
-
 - 🌱 I’m currently learning **Machine Learning, Generative AI, MCP (Model Context Protocol), React, Next.js, FastAPI, Cloud Deployment**
 
 - 👯 I’m looking to collaborate on **AI/ML, Full-Stack Development & Open Source Projects**
