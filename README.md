@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Jeevan%20A%20Jacob&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Jeevan%20A%20Jacob&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58](https://github.com/jeevanjacob1/jeevanjacob1/blob/main/jeev_bougain.jpeg)"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jeevan A Jacob</h1>
