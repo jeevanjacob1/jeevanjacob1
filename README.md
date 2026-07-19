@@ -130,49 +130,40 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 
 </tr>
 
-## ~/about
+## About
 
-```bash
-$ whoami
+```yaml
+name: Jeevan A Jacob
 
-Jeevan A Jacob
+role:
+  - Full Stack Developer
+  - AI/ML Enthusiast
 
-$ education
+education:
+  degree: B.Tech Computer Science Engineering
+  university: Amrita Vishwa Vidyapeetham
 
-B.Tech Computer Science Engineering
-Amrita Vishwa Vidyapeetham
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - UI/UX
+  - Cloud Computing
 
-$ interests
+currently_learning:
+  - Generative AI
+  - MCP
+  - React
+  - Next.js
+  - FastAPI
 
-Artificial Intelligence
-Machine Learning
-Full Stack Development
-UI/UX Design
-Cloud Computing
+collaboration:
+  - Open Source
+  - AI Projects
+  - Full Stack Applications
 
-$ currently-learning
-
-Generative AI
-Model Context Protocol (MCP)
-React
-Next.js
-FastAPI
-Cloud Deployment
-
-$ open-for
-
-Open Source
-Hackathons
-AI/ML Projects
-Full Stack Development
-
-$ contact
-
-jeevanjacob218@gmail.com
-
-$ status
-
-Building. Learning. Improving.
+email:
+  jeevanjacob218@gmail.com
 ```
 # 🌐 Connect With Me
 
