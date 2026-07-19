@@ -45,7 +45,6 @@
 <td>
 
 B.Tech Computer Science Engineering  
-Amrita Vishwa Vidyapeetham
 
 </td>
 
@@ -132,6 +131,80 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 </tr>
 
 </table>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+🏫 <b>Education</b>
+
+B.Tech CSE
+
+Amrita Vishwa Vidyapeetham
+
+<br><br>
+
+💻 <b>Specialization</b>
+
+AI • ML • Full Stack
+
+<br><br>
+
+🌱 <b>Currently Exploring</b>
+
+Generative AI
+
+Model Context Protocol
+
+Next.js
+
+FastAPI
+
+Cloud
+
+</td>
+
+<td width="50%">
+
+🚀 <b>Interested In</b>
+
+Artificial Intelligence
+
+Machine Learning
+
+UI/UX
+
+Cloud Computing
+
+<br><br>
+
+🤝 <b>Open For</b>
+
+Open Source
+
+Hackathons
+
+AI Projects
+
+Full Stack Projects
+
+<br><br>
+
+📬 <b>Contact</b>
+
+<a href="mailto:jeevanjacob218@gmail.com">jeevanjacob218@gmail.com</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
