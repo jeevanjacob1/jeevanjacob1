@@ -311,6 +311,13 @@ Contact :: jeevanjacob218@gmail.com
 </p>
 
 ---
+## 👾 Pacman Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/jeevanjacob1/jeevanjacob1/output/pacman.svg"/>
+
+</p>
 
 # 📈 Contribution Graph
 
