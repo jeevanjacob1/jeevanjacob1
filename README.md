@@ -184,6 +184,7 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 </tr>
 </table>
 # 🌐 Connect With Me
+---
 
 <p align="center">
 <a href="https://linkedin.com/in/jeevanjacob1234">
