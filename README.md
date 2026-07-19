@@ -17,43 +17,44 @@
 
 ---
 
-# 🚀 About Me
+<h2 align="center">About Me</h2>
 
-🎓 B.Tech Computer Science Engineering Student at **Amrita Vishwa Vidyapeetham**
+<table align="center">
+<tr>
+<td>
 
-💡 Passionate about
+```yaml
+Name        : Jeevan A Jacob
+Education   : B.Tech Computer Science Engineering
+University  : Amrita Vishwa Vidyapeetham
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- UI/UX Design
-- Cloud Computing
+Interests   :
+  • Artificial Intelligence
+  • Machine Learning
+  • Full Stack Development
+  • UI/UX Design
+  • Cloud Computing
 
-🌱 Currently Learning
+Currently Learning :
+  • Generative AI
+  • MCP
+  • React
+  • Next.js
+  • FastAPI
+  • Cloud Deployment
 
-- Machine Learning
-- Generative AI
-- MCP (Model Context Protocol)
-- React
-- Next.js
-- FastAPI
-- Cloud Deployment
+Open To :
+  • AI/ML Projects
+  • Open Source
+  • Full Stack Applications
 
-👯 Looking to collaborate on
+Contact :
+  jeevanjacob218@gmail.com
+```
 
-- AI/ML Projects
-- Full Stack Applications
-- Open Source
-
-🤝 Looking for help with
-
-- Building scalable AI products
-- Distributed Systems
-- Production-ready Full Stack Apps
-
-📫 Email
-
-**jeevanjacob218@gmail.com**
+</td>
+</tr>
+</table>
 
 ---
 
