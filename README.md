@@ -360,24 +360,12 @@ Contact :: jeevanjacob218@gmail.com
 - Quantum Leap Bootcamp
 - Nitrostack MCP building Certificate
 
----
 
-# 💡 Random Dev Quote
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 😂 Random Programming Joke
+#  Random Programming Joke (*-*)
 
 <p align="center">
-
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
 </p>
 
 ---
