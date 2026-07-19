@@ -160,77 +160,84 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 
 </p>
 
-<table align="center">
+<table width="40%">
 <tr>
 <td>
 
-<table align="center">
+<table width="40%">
 <tr>
 <td>
 
 <div align="center">
 
-## ABOUT.ME
+<!-- ================= ABOUT ME ================= -->
 
-</div>
+<h2 align="center">ABOUT.ME</h2>
 
-<table align="center">
+<div align="center">
+
+<table width="680">
+
 <tr>
-<td width="50%">
 
-### PROFILE
+<td width="50%" valign="top">
 
-```txt
-Name        :: Jeevan A Jacob
-Role        :: Full Stack Developer
-University  :: Amrita Vishwa Vidyapeetham
-Degree      :: B.Tech Computer Science Engineering
-```
+<h3>PROFILE</h3>
+
+<pre>
+Name       :: Jeevan A Jacob
+Role       :: Full Stack Developer
+University :: Amrita University
+Degree     :: B.Tech CSE
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>CURRENT STATUS</h3>
+
+<pre>
+Learning ::
+
+ • Generative AI
+ • MCP
+ • React
+ • Next.js
+ • FastAPI
+ • Cloud
+</pre>
 
 </td>
 
-<td width="50%">
-
-### CURRENT STATUS
-
-```txt
-Learning    :: Generative AI
-              MCP
-              React
-              Next.js
-              FastAPI
-              Cloud
-```
-
-</td>
 </tr>
 
 <tr>
 
-<td>
+<td valign="top">
 
-### INTERESTS
+<h3>INTERESTS</h3>
 
-```txt
-Artificial Intelligence
-Machine Learning
-Full Stack Development
-UI / UX Design
-Cloud Computing
-```
+<pre>
+• Artificial Intelligence
+• Machine Learning
+• Full Stack Development
+• UI / UX Design
+• Cloud Computing
+</pre>
 
 </td>
 
-<td>
+<td valign="top">
 
-### AVAILABLE FOR
+<h3>AVAILABLE FOR</h3>
 
-```txt
-Open Source
-Hackathons
-AI Projects
-Full Stack Applications
-```
+<pre>
+• Open Source
+• Hackathons
+• AI Projects
+• Full Stack Apps
+</pre>
 
 </td>
 
@@ -238,13 +245,23 @@ Full Stack Applications
 
 </table>
 
-<div align="center">
+<br>
 
-```
-Contact :: jeevanjacob218@gmail.com
-```
+<sub>
+
+Contact •
+<a href="mailto:jeevanjacob218@gmail.com">
+jeevanjacob218@gmail.com
+</a>
+
+</sub>
 
 </div>
+
+<br>
+
+---
+
 # 🌐 Connect With Me
 <hr>
 
@@ -311,19 +328,16 @@ Contact :: jeevanjacob218@gmail.com
 </p>
 
 ---
-## 👾 Pacman Contribution Graph
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/jeevanjacob1/jeevanjacob1/output/pacman.svg"/>
-
+  <img
+    width="80%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanjacob1&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanjacob1&theme=tokyo-night"/>
 
 </p>
 
@@ -347,9 +361,7 @@ Contact :: jeevanjacob218@gmail.com
 - 🌍 Contribute to Open Source
 - ☁ Master Cloud Technologies
 - 💼 Land a Software Internship
-
 ---
-
 # 📜 Certifications
 
 - IBM AI Fundamentals
@@ -359,9 +371,6 @@ Contact :: jeevanjacob218@gmail.com
 - Claude Code 101
 - Quantum Leap Bootcamp
 - Nitrostack MCP building Certificate
-
-
-
 #  Random Programming Joke (*-*)
 
 <p align="center">
