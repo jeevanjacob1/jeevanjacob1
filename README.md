@@ -130,27 +130,27 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 
 </tr>
 
-## ~/about_me
+## ~/about
 
-```console
-> whoami
+```bash
+$ whoami
 
 Jeevan A Jacob
 
-> education
+$ education
 
 B.Tech Computer Science Engineering
 Amrita Vishwa Vidyapeetham
 
-> interests
+$ interests
 
 Artificial Intelligence
 Machine Learning
 Full Stack Development
-UI/UX
+UI/UX Design
 Cloud Computing
 
-> currently_learning
+$ currently-learning
 
 Generative AI
 Model Context Protocol (MCP)
@@ -159,24 +159,21 @@ Next.js
 FastAPI
 Cloud Deployment
 
-> collaboration
+$ open-for
 
-AI/ML
 Open Source
-Full Stack Applications
+Hackathons
+AI/ML Projects
+Full Stack Development
 
-> contact
+$ contact
 
 jeevanjacob218@gmail.com
 
-> status
+$ status
 
-Always learning. Always building.
+Building. Learning. Improving.
 ```
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
