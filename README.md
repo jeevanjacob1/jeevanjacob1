@@ -161,6 +161,7 @@
 - Git & GitHub
 - Claude Code 101
 - Quantum Leap Bootcamp
+- Nitrostack MCP building Certificate
 
 ---
 
