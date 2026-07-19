@@ -130,7 +130,23 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 
 </tr>
 
-## About
+<h2 align="center">About Me</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Amrita-University-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-ML-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FullStack-Developer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenSource-Contributor-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-Learning-blue?style=for-the-badge"/>
+
+</p>
 
 ```json
 {
