@@ -130,80 +130,49 @@ Scalable AI Systems • Distributed Systems • Production Deployments
 
 </tr>
 
-</table>
+## ~/about_me
 
-<div align="center">
+```console
+> whoami
 
-<table>
+Jeevan A Jacob
 
-<tr>
+> education
 
-<td width="50%">
-
-🏫 <b>Education</b>
-
-B.Tech CSE
-
+B.Tech Computer Science Engineering
 Amrita Vishwa Vidyapeetham
 
-<br><br>
-
-💻 <b>Specialization</b>
-
-AI • ML • Full Stack
-
-<br><br>
-
-🌱 <b>Currently Exploring</b>
-
-Generative AI
-
-Model Context Protocol
-
-Next.js
-
-FastAPI
-
-Cloud
-
-</td>
-
-<td width="50%">
-
-🚀 <b>Interested In</b>
+> interests
 
 Artificial Intelligence
-
 Machine Learning
-
+Full Stack Development
 UI/UX
-
 Cloud Computing
 
-<br><br>
+> currently_learning
 
-🤝 <b>Open For</b>
+Generative AI
+Model Context Protocol (MCP)
+React
+Next.js
+FastAPI
+Cloud Deployment
 
+> collaboration
+
+AI/ML
 Open Source
+Full Stack Applications
 
-Hackathons
+> contact
 
-AI Projects
+jeevanjacob218@gmail.com
 
-Full Stack Projects
+> status
 
-<br><br>
-
-📬 <b>Contact</b>
-
-<a href="mailto:jeevanjacob218@gmail.com">jeevanjacob218@gmail.com</a>
-
-</td>
-
-</tr>
-
-</table>
-
+Always learning. Always building.
+```
 </div>
 
 ---
