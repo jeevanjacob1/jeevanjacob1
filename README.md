@@ -23,8 +23,6 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/University-Amrita_Vishwa_Vidyapeetham-success?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Open_Source-Lover-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
@@ -33,7 +31,107 @@
 
 </p>
 
----
+
+<table>
+
+<tr>
+
+<td width="180">
+
+<strong>Education</strong>
+
+</td>
+
+<td>
+
+B.Tech Computer Science Engineering  
+Amrita Vishwa Vidyapeetham
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<strong>Focus</strong>
+
+</td>
+
+<td>
+
+Artificial Intelligence • Machine Learning • Full Stack Development • UI/UX • Cloud
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<strong>Currently Learning</strong>
+
+</td>
+
+<td>
+
+Generative AI • MCP • React • Next.js • FastAPI • Cloud Deployment
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<strong>Open to Collaborate</strong>
+
+</td>
+
+<td>
+
+AI/ML • Open Source • Full Stack Projects
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<strong>Seeking Help In</strong>
+
+</td>
+
+<td>
+
+Scalable AI Systems • Distributed Systems • Production Deployments
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<strong>Email</strong>
+
+</td>
+
+<td>
+
+<a href="mailto:jeevanjacob218@gmail.com">jeevanjacob218@gmail.com</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
