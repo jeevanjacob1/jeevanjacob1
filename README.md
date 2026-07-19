@@ -17,19 +17,6 @@
 
 ---
 
-## About Me
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/B.Tech-CSE-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-Lover-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full_Stack-Developer-purple?style=for-the-badge"/>
-
-</p>
 
 
 <table>
