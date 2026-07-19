@@ -17,44 +17,23 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+## About Me
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
-```yaml
-Name        : Jeevan A Jacob
-Education   : B.Tech Computer Science Engineering
-University  : Amrita Vishwa Vidyapeetham
+<img src="https://img.shields.io/badge/B.Tech-CSE-blue?style=for-the-badge"/>
 
-Interests   :
-  • Artificial Intelligence
-  • Machine Learning
-  • Full Stack Development
-  • UI/UX Design
-  • Cloud Computing
+<img src="https://img.shields.io/badge/University-Amrita_Vishwa_Vidyapeetham-success?style=for-the-badge"/>
 
-Currently Learning :
-  • Generative AI
-  • MCP
-  • React
-  • Next.js
-  • FastAPI
-  • Cloud Deployment
+<img src="https://img.shields.io/badge/Open_Source-Lover-orange?style=for-the-badge"/>
 
-Open To :
-  • AI/ML Projects
-  • Open Source
-  • Full Stack Applications
+<img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
 
-Contact :
-  jeevanjacob218@gmail.com
-```
+<img src="https://img.shields.io/badge/Full_Stack-Developer-purple?style=for-the-badge"/>
 
-</td>
-</tr>
-</table>
+</p>
+
+---
 
 ---
 
