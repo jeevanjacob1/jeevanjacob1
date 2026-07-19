@@ -1,14 +1,44 @@
 <!-- Banner -->
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Jeevan%20A%20Jacob&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58](https://github.com/jeevanjacob1/jeevanjacob1/blob/main/jeev_bougain.jpeg)"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Jeevan A Jacob</h1>
+<!-- ====================================================== -->
+<!--                  HERO SECTION                          -->
+<!-- ====================================================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Builder;Open+Source+Contributor;Always+Learning+New+Technologies;Building+Beautiful+and+Useful+Software" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 </p>
 
+<div align="center">
+
+```text
+      ██╗███████╗███████╗██╗   ██╗ █████╗ ███╗   ██╗
+      ██║██╔════╝██╔════╝██║   ██║██╔══██╗████╗  ██║
+      ██║█████╗  █████╗  ██║   ██║███████║██╔██╗ ██║
+ ██   ██║██╔══╝  ██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║
+ ╚█████╔╝███████╗███████╗ ╚████╔╝ ██║  ██║██║ ╚████║
+  ╚════╝ ╚══════╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+# Jeevan A Jacob
+
+### Full Stack Developer • AI/ML Enthusiast • B.Tech CSE
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=00C2FF&lines=Building+AI+Applications;Full+Stack+Developer;Hackathon+Builder;Open+Source+Contributor;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/jeevanjacob1?style=for-the-badge&logo=github&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/jeevanjacob1?style=for-the-badge&logo=github&color=f59e0b"/>
+
+<img src="https://komarev.com/ghpvc/?username=jeevanjacob1&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+<br>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 <p align="center">
 <a href="https://github.com/jeevanjacob1"><img src="https://img.shields.io/github/followers/jeevanjacob1?label=Followers&style=for-the-badge"></a>
 <a href="https://github.com/jeevanjacob1"><img src="https://img.shields.io/github/stars/jeevanjacob1?style=for-the-badge"></a>
