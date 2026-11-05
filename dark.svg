@@ -1,0 +1,392 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Jeevan A Jacob - Developer Profile Hero">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="45%" stop-color="#07111F" />
+      <stop offset="100%" stop-color="#0B1528" />
+    </linearGradient>
+
+    <!-- Header / Chrome Gradient -->
+    <linearGradient id="chromeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B132B" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0B132B" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.67" />
+    </linearGradient>
+
+    <!-- Name Accent Gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="45%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+
+    <!-- Luminous Border Highlight -->
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.5" />
+    </linearGradient>
+
+    <!-- Scanline Gradient -->
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Background Grid Pattern -->
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="rgba(255, 255, 255, 0.03)" stroke-width="1" />
+    </pattern>
+
+    <!-- Clipping for portrait scanline -->
+    <clipPath id="portraitClip">
+      <rect x="14" y="48" width="407" height="358" rx="8" ry="8" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+  </style>
+
+  <!-- Base Canvas Background -->
+  <rect x="0" y="0" width="1180" height="610" rx="20" ry="20" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5" />
+  
+  <!-- Subtle Grid Texture -->
+  <rect x="0" y="0" width="1180" height="610" rx="20" ry="20" fill="url(#grid)" />
+
+  <!-- Outer Luminous Border Shimmer -->
+  <rect x="1" y="1" width="1178" height="608" rx="19" ry="19" fill="none" stroke="url(#borderGlow)" stroke-width="1" stroke-opacity="0.4" />
+
+  <!-- ================= TOP TERMINAL CHROME BAR ================= -->
+  <path d="M 0 20 C 0 8.954 8.954 0 20 0 L 1160 0 C 1171.046 0 1180 8.954 1180 20 L 1180 56 L 0 56 Z" fill="url(#chromeGrad)" />
+  <line x1="0" y1="56" x2="1180" y2="56" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Terminal Window Controls -->
+  <circle cx="36" cy="28" r="5.5" fill="#EF4444" />
+  <circle cx="54" cy="28" r="5.5" fill="#F59E0B" />
+  <circle cx="72" cy="28" r="5.5" fill="#10B981" />
+
+  <!-- Shell Path / Host -->
+  <text x="96" y="32" class="mono" font-size="12" fill="#94A3B8" font-weight="600">
+    jeevan@developer-hub<tspan fill="#38BDF8">:~/portfolio</tspan><tspan fill="#64748B"> (main)</tspan>
+  </text>
+
+  <!-- Top Center System Label -->
+  <g transform="translate(590, 28)">
+    <rect x="-115" y="-12" width="230" height="24" rx="12" fill="#1E293B" stroke="#334155" stroke-width="1" />
+    <text x="0" y="4" class="mono" font-size="11" fill="#E2E8F0" font-weight="600" text-anchor="middle" letter-spacing="1">
+      DEV.CORE // SYSTEM.INFO
+    </text>
+  </g>
+
+  <!-- Right Status Indicator -->
+  <g transform="translate(1040, 28)">
+    <circle cx="0" cy="0" r="4.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="12" y="4" class="mono" font-size="11" fill="#94A3B8" font-weight="700" letter-spacing="0.5">
+      ONLINE<tspan fill="#64748B"> :: SYS.READY</tspan>
+    </text>
+  </g>
+
+
+  <!-- ================= LEFT COLUMN: VISUAL.MAP ================= -->
+  <g transform="translate(28, 70)">
+    <!-- Left Outer Card -->
+    <rect x="0" y="0" width="435" height="518" rx="14" ry="14" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1" />
+    
+    <!-- Left Card Header -->
+    <path d="M 0 14 C 0 6.268 6.268 0 14 0 L 421 0 C 428.732 0 435 6.268 435 14 L 435 38 L 0 38 Z" fill="#0B132B" fill-opacity="0.5" />
+    <line x1="0" y1="38" x2="435" y2="38" stroke="#1E293B" stroke-width="1" />
+    
+    <text x="18" y="24" class="mono" font-size="11.5" fill="#38BDF8" font-weight="700" letter-spacing="1.2">
+      // 01. VISUAL.MAP
+    </text>
+    <text x="417" y="24" class="mono" font-size="10.5" fill="#64748B" font-weight="600" text-anchor="end">
+      [ASCII_MATRIX_V4]
+    </text>
+
+    <!-- ASCII Portrait Sub-Container -->
+    <rect x="14" y="48" width="407" height="358" rx="8" ry="8" fill="#030712" fill-opacity="0.88" stroke="#334155" stroke-width="1" />
+
+    <!-- ASCII Character Representation of Jeevan A Jacob -->
+    <g clip-path="url(#portraitClip)">
+      <text class="mono" font-size="9.4" fill="#38BDF8" font-weight="600" text-anchor="middle" letter-spacing="2" xml:space="preserve" opacity="0.95">
+        <tspan x="217.5" y="145.0">                                              </tspan>
+            <tspan x="217.5" y="156.2">                                              </tspan>
+            <tspan x="217.5" y="167.4">                                              </tspan>
+            <tspan x="217.5" y="178.6">                       ********               </tspan>
+            <tspan x="217.5" y="189.8">            ** ++***********************      </tspan>
+            <tspan x="217.5" y="201.0">        ********************************      </tspan>
+            <tspan x="217.5" y="212.2">      ***********************************     </tspan>
+            <tspan x="217.5" y="223.4">***********************####****#######*****   </tspan>
+            <tspan x="217.5" y="234.6">******************####################***##** </tspan>
+            <tspan x="217.5" y="245.8">***********############################***#*  </tspan>
+            <tspan x="217.5" y="257.0">***######**################******##*********  </tspan>
+            <tspan x="217.5" y="268.2">*******####################***********#**     </tspan>
+            <tspan x="217.5" y="279.4">*******#####%%%%%%%%%%%%######****#****       </tspan>
+            <tspan x="217.5" y="290.6">*********###+--=*%%%%%@@@%%%%%%%%%%#****+++**+</tspan>
+            <tspan x="217.5" y="301.8">******####%=     -%%%%%@@@@@@@@@@@@@@@%%%%%###</tspan>
+            <tspan x="217.5" y="313.0">*#########%.     -%%%%@@@@@@@@@@@@%%@@%%%%%%%%</tspan>
+            <tspan x="217.5" y="324.2">****#######=     +@%%%%%%@@@@@@@@@@@@%%%%%%##%</tspan>
+            <tspan x="217.5" y="335.4">+*********##:    *%#%%%%%%%%%%%%%%%%%%%%%####*</tspan>
+            <tspan x="217.5" y="346.6">++++++++***+.  :*###########################**</tspan>
+            <tspan x="217.5" y="357.8">======+=-:.     :-++++****************++*+++++</tspan>
+            <tspan x="217.5" y="369.0">-----=:            ========++==+++==+=========</tspan>
+            <tspan x="217.5" y="380.2">::::::             -=-=====-------------------</tspan>
+            <tspan x="217.5" y="391.4">:----:             -==================--------</tspan>
+            <tspan x="217.5" y="402.6">-----:             :=======================---</tspan>
+            <tspan x="217.5" y="413.8">::::-.             :======================----</tspan>
+            <tspan x="217.5" y="425.0">::::-              .=-====================----</tspan>
+            <tspan x="217.5" y="436.2">.::::              .=---=============---------</tspan>
+            <tspan x="217.5" y="447.4">:::.:               -=====================----</tspan>
+            <tspan x="217.5" y="458.6">                    ---:::::::::::::::........</tspan>
+        <animate attributeName="opacity" values="0.88;0.98;0.92;1;0.90" dur="5s" repeatCount="indefinite" />
+      </text>
+
+      <!-- Sweeping Horizontal Scanline -->
+      <rect x="14" y="48" width="407" height="18" fill="url(#scanGrad)">
+        <animate attributeName="y" values="48;400;48" dur="7s" repeatCount="indefinite" />
+      </rect>
+
+      <!-- Grid Overlay Lines for Terminal CRT Feeling -->
+      <line x1="14" y1="120" x2="421" y2="120" stroke="rgba(255, 255, 255, 0.03)" stroke-dasharray="4,4" />
+      <line x1="14" y1="210" x2="421" y2="210" stroke="rgba(255, 255, 255, 0.03)" stroke-dasharray="4,4" />
+      <line x1="14" y1="300" x2="421" y2="300" stroke="rgba(255, 255, 255, 0.03)" stroke-dasharray="4,4" />
+    </g>
+
+    <!-- Left Card Bottom Terminal Details -->
+    <g transform="translate(16, 420)">
+      <text x="0" y="14" class="mono" font-size="11" fill="#38BDF8" font-weight="600">
+        ~/identity $ <tspan fill="#F8FAFC">./whoami --details</tspan>
+      </text>
+      
+      <!-- Identity Badges Row -->
+      <g transform="translate(0, 26)">
+        <!-- Pill 1 -->
+        <rect x="0" y="0" width="124" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1" />
+        <circle cx="10" cy="11" r="3" fill="#38BDF8" />
+        <text x="20" y="15" class="mono" font-size="10" fill="#E2E8F0" font-weight="600">FULL-STACK</text>
+
+        <!-- Pill 2 -->
+        <rect x="132" y="0" width="118" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1" />
+        <circle cx="142" cy="11" r="3" fill="#10B981" />
+        <text x="152" y="15" class="mono" font-size="10" fill="#E2E8F0" font-weight="600">AI / ML DEV</text>
+
+        <!-- Pill 3 -->
+        <rect x="258" y="0" width="145" height="22" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1" />
+        <circle cx="268" cy="11" r="3" fill="#818CF8" />
+        <text x="278" y="15" class="mono" font-size="10" fill="#E2E8F0" font-weight="600">AMRITA CSE '27</text>
+      </g>
+
+      <!-- Tagline -->
+      <text x="0" y="68" class="sans" font-size="11.5" fill="#94A3B8" font-style="italic">
+        &quot;Turning complex ideas into working, intelligent software.&quot;
+      </text>
+      <text x="0" y="84" class="mono" font-size="10.5" fill="#64748B">
+        LOC: INDIA // CORE: SYSTEMS, AI &amp; MODERN WEB
+      </text>
+    </g>
+  </g>
+
+
+  <!-- ================= RIGHT COLUMN: SYSTEM.INFO ================= -->
+  <g transform="translate(480, 70)">
+    <!-- Right Outer Card -->
+    <rect x="0" y="0" width="672" height="518" rx="14" ry="14" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1" />
+    
+    <!-- Right Card Header -->
+    <path d="M 0 14 C 0 6.268 6.268 0 14 0 L 658 0 C 665.732 0 672 6.268 672 14 L 672 38 L 0 38 Z" fill="#0B132B" fill-opacity="0.5" />
+    <line x1="0" y1="38" x2="672" y2="38" stroke="#1E293B" stroke-width="1" />
+    
+    <text x="20" y="24" class="mono" font-size="11.5" fill="#38BDF8" font-weight="700" letter-spacing="1.2">
+      // 02. SYSTEM.INFO &amp; CAPABILITIES
+    </text>
+    <text x="652" y="24" class="mono" font-size="10.5" fill="#64748B" font-weight="600" text-anchor="end">
+      [PROFILE: ACTIVE_ENGINEER]
+    </text>
+
+    <!-- Content Inside Right Panel -->
+    <g transform="translate(24, 48)">
+
+      <!-- Command Prompt -->
+      <text x="0" y="16" class="mono" font-size="12" fill="#64748B">
+        jeevan@workstation:~$ <tspan fill="#38BDF8">cat ./profile.json | jq .core</tspan>
+      </text>
+
+      <!-- Main Developer Name -->
+      <text x="0" y="52" class="sans" font-size="32" font-weight="800" fill="url(#nameGrad)" letter-spacing="1">
+        JEEVAN A JACOB
+      </text>
+
+      <!-- Animated Rotating Role Line with Blinking Cursor Inline -->
+      <g transform="translate(0, 78)">
+        <!-- Role 1: Full-Stack Developer -->
+        <g>
+          <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;1" keyTimes="0;0.22;0.25;0.5;0.75;0.97;0.99;1" dur="14s" repeatCount="indefinite" />
+          <text x="0" y="0" class="mono" font-size="14.5" font-weight="600" fill="#10B981">
+            &gt; Full-Stack Software Developer<tspan fill="#38BDF8"> _<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" /></tspan>
+          </text>
+        </g>
+        <!-- Role 2: AI & ML Systems Builder -->
+        <g>
+          <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0" keyTimes="0;0.24;0.26;0.47;0.5;0.75;0.99;1" dur="14s" repeatCount="indefinite" />
+          <text x="0" y="0" class="mono" font-size="14.5" font-weight="600" fill="#38BDF8">
+            &gt; AI &amp; Machine Learning Builder<tspan fill="#38BDF8"> _<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" /></tspan>
+          </text>
+        </g>
+        <!-- Role 3: Generative AI & MCP Integrations -->
+        <g>
+          <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" keyTimes="0;0.49;0.51;0.72;0.75;0.98;0.99;1" dur="14s" repeatCount="indefinite" />
+          <text x="0" y="0" class="mono" font-size="14.5" font-weight="600" fill="#818CF8">
+            &gt; Generative AI &amp; MCP Integrations<tspan fill="#38BDF8"> _<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" /></tspan>
+          </text>
+        </g>
+        <!-- Role 4: B.Tech CSE · Amrita University -->
+        <g>
+          <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0" keyTimes="0;0.74;0.76;0.96;0.98;0.99;0.995;1" dur="14s" repeatCount="indefinite" />
+          <text x="0" y="0" class="mono" font-size="14.5" font-weight="600" fill="#F59E0B">
+            &gt; B.Tech CSE Student · Amrita Univ<tspan fill="#38BDF8"> _<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" /></tspan>
+          </text>
+        </g>
+      </g>
+
+      <!-- Subtle Divider -->
+      <line x1="0" y1="94" x2="624" y2="94" stroke="#1E293B" stroke-width="1" />
+
+      <!-- Factual Profile Hierarchy Rows -->
+      <g transform="translate(0, 114)" class="mono" font-size="11.5">
+        <!-- Row 1: Focus -->
+        <text x="0" y="0" fill="#38BDF8" font-weight="700">&gt; CURRENT FOCUS</text>
+        <text x="145" y="0" fill="#F8FAFC" font-weight="500">GenAI · MCP Integrations · React/Next.js · FastAPI · Cloud</text>
+
+        <!-- Row 2: Education -->
+        <text x="0" y="22" fill="#38BDF8" font-weight="700">&gt; EDUCATION</text>
+        <text x="145" y="22" fill="#F8FAFC" font-weight="500">B.Tech Computer Science &amp; Engineering · Amrita University</text>
+
+        <!-- Row 3: Philosophy -->
+        <text x="0" y="44" fill="#38BDF8" font-weight="700">&gt; METHODOLOGY</text>
+        <text x="145" y="44" fill="#94A3B8" font-weight="500">Build  →  Break  →  Learn  →  Improve  →  Repeat</text>
+      </g>
+
+      <!-- Section: Tech Stack Badges Grid -->
+      <g transform="translate(0, 182)">
+        <text x="0" y="0" class="mono" font-size="11" fill="#64748B" font-weight="700" letter-spacing="1">
+          // PRODUCTION &amp; CORE TECH STACK
+        </text>
+
+        <!-- Badge Row 1 (y = 12) -->
+        <g transform="translate(0, 12)">
+          <!-- Python -->
+          <rect x="0" y="0" width="88" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="12" cy="12" r="3" fill="#3B82F6" />
+          <text x="22" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">Python</text>
+
+          <!-- React / Next.js -->
+          <rect x="96" y="0" width="130" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="108" cy="12" r="3" fill="#06B6D4" />
+          <text x="118" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">React / Next.js</text>
+
+          <!-- Node.js / FastAPI -->
+          <rect x="234" y="0" width="138" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="246" cy="12" r="3" fill="#10B981" />
+          <text x="256" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">Node / FastAPI</text>
+
+          <!-- Generative AI & MCP -->
+          <rect x="380" y="0" width="150" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="392" cy="12" r="3" fill="#8B5CF6" />
+          <text x="402" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">GenAI &amp; MCP Tech</text>
+
+          <!-- Java -->
+          <rect x="538" y="0" width="86" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="550" cy="12" r="3" fill="#F97316" />
+          <text x="560" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">Java / C</text>
+        </g>
+
+        <!-- Badge Row 2 (y = 44) -->
+        <g transform="translate(0, 44)">
+          <!-- PostgreSQL & MySQL -->
+          <rect x="0" y="0" width="154" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="12" cy="12" r="3" fill="#3B82F6" />
+          <text x="22" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">PostgreSQL · MySQL</text>
+
+          <!-- Cloud & AWS -->
+          <rect x="162" y="0" width="124" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="174" cy="12" r="3" fill="#F59E0B" />
+          <text x="184" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">AWS · GCP Cloud</text>
+
+          <!-- Git & GitHub Actions -->
+          <rect x="294" y="0" width="168" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="306" cy="12" r="3" fill="#EC4899" />
+          <text x="316" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">Git · CI/CD Actions</text>
+
+          <!-- WebSockets & JWT -->
+          <rect x="470" y="0" width="154" height="24" rx="5" fill="#1E293B" stroke="#334155" stroke-width="1" />
+          <circle cx="482" cy="12" r="3" fill="#14B8A6" />
+          <text x="492" y="16" class="mono" font-size="10.5" fill="#E2E8F0" font-weight="600">WebSockets · REST</text>
+        </g>
+      </g>
+
+      <!-- Section: Key Featured Projects Proof -->
+      <g transform="translate(0, 274)">
+        <text x="0" y="0" class="mono" font-size="11" fill="#64748B" font-weight="700" letter-spacing="1">
+          // PROVEN SYSTEMS &amp; SELECTED PROJECTS
+        </text>
+
+        <!-- Project 1: DischargeAI -->
+        <g transform="translate(0, 12)">
+          <rect x="0" y="0" width="624" height="34" rx="6" fill="#030712" fill-opacity="0.88" stroke="#334155" stroke-width="1" />
+          <text x="14" y="21" class="mono" font-size="11.5" font-weight="700" fill="#38BDF8">DischargeAI</text>
+          <text x="135" y="21" class="sans" font-size="11.5" fill="#94A3B8">AI Hospital Discharge &amp; Post-Care Clinical Platform</text>
+          <text x="610" y="21" class="mono" font-size="10" fill="#10B981" text-anchor="end">[AI/ML · WEB]</text>
+        </g>
+
+        <!-- Project 2: QueueEase -->
+        <g transform="translate(0, 52)">
+          <rect x="0" y="0" width="624" height="34" rx="6" fill="#030712" fill-opacity="0.88" stroke="#334155" stroke-width="1" />
+          <text x="14" y="21" class="mono" font-size="11.5" font-weight="700" fill="#10B981">QueueEase</text>
+          <text x="135" y="21" class="sans" font-size="11.5" fill="#94A3B8">Real-Time Queue Management System with WebSockets &amp; JWT</text>
+          <text x="610" y="21" class="mono" font-size="10" fill="#38BDF8" text-anchor="end">[FULL STACK]</text>
+        </g>
+
+        <!-- Project 3: TrailForge -->
+        <g transform="translate(0, 92)">
+          <rect x="0" y="0" width="624" height="34" rx="6" fill="#030712" fill-opacity="0.88" stroke="#334155" stroke-width="1" />
+          <text x="14" y="21" class="mono" font-size="11.5" font-weight="700" fill="#818CF8">TrailForge</text>
+          <text x="135" y="21" class="sans" font-size="11.5" fill="#94A3B8">Cinematic Adventure &amp; E-Commerce Web Experience</text>
+          <text x="610" y="21" class="mono" font-size="10" fill="#818CF8" text-anchor="end">[UI/UX · REACT]</text>
+        </g>
+      </g>
+
+      <!-- Terminal Bottom Links -->
+      <g transform="translate(0, 424)">
+        <line x1="0" y1="0" x2="624" y2="0" stroke="#1E293B" stroke-width="1" />
+        
+        <g transform="translate(0, 18)" class="mono" font-size="11">
+          <text x="0" y="0" fill="#64748B">CONNECT:</text>
+          
+          <text x="75" y="0" fill="#38BDF8" font-weight="600">github.com/jeevanjacob1</text>
+          <text x="280" y="0" fill="#64748B">|</text>
+          
+          <text x="300" y="0" fill="#10B981" font-weight="600">linkedin.com/in/jeevanjacob1234</text>
+          <text x="545" y="0" fill="#64748B">|</text>
+          
+          <text x="560" y="0" fill="#818CF8" font-weight="600">email</text>
+        </g>
+      </g>
+
+    </g>
+  </g>
+</svg>
